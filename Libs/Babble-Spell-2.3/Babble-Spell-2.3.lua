@@ -2021,7 +2021,9 @@ BabbleSpell:RegisterTranslations("esES", function()
 		["Goblin Sapper Charge"] = "Carga de zapador goblin",
 		["Gouge"] = "Incapacitación",
 		["Grace of Air Totem"] = "Tótem gracia del aire",
-		["Grace of the Sunwell"] = true,
+		["Grace of the Sunwell"] = "Gracia del Pozo del Sol" , -- needs to be translated
+		--["Grasping Earth"] = "Tierra atrapante", -- needs to be translated
+		--["Grasping Roots"] = "Raíces atrapantes", -- needs to be translated
 		["Grasping Vines"] = "Parras enredadoras",
 		["Great Stamina"] = "Gran fortaleza",
 		["Greater Blessing of Kings"] = "Bendición superior de reyes",
@@ -2044,7 +2046,7 @@ BabbleSpell:RegisterTranslations("esES", function()
 		["Hammer of Justice"] = "Martillo de justicia",
 		["Hammer of Wrath"] = "Martillo de cólera",
 		["Hamstring"] = "Seccionar",
-		["Hand of Protection"] = true, -- needs to be translated
+		["Hand of Protection"] = "Mano de Proteccion", -- needs to be translated
 		["Harass"] = "Hostigar",
 		["Hardiness"] = "Firmeza",
 		["Haunting Spirits"] = "Espíritus encantados",

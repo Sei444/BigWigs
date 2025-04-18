@@ -53,21 +53,21 @@ L:RegisterTranslations("esES", function() return {
 	--cmd = "Buru",
 
 	--you_cmd = "you",
-	you_name = "Alerta personal de Observar",
-	you_desc = "Avisa cuando estés siendo observado",
+	--you_name = "Alerta personal de Observar",
+	--you_desc = "Avisa cuando estés siendo observado",
 
 	--other_cmd = "other",
-	other_name = "Alerta de Observar",
-	other_desc = "Avisa cuando otros jugadores estén siendo observados",
+	--other_name = "Alerta de Observar",
+	--other_desc = "Avisa cuando otros jugadores estén siendo observados",
 
 	--icon_cmd = "icon",
-	icon_name = "Marcar para Observar",
-	icon_desc = "Marca con un icono el jugador observado (require asistente o líder)",
+	--icon_name = "Marcar para Observar",
+	--icon_desc = "Marca con un icono el jugador observado (require asistente o líder)",
 
 	trigger_watch = "sets eyes on (.+)!",
-	watchwarn = " está siendo observado!",
-	watchwarnyou = "¡Estás siendo observado!",
-	you = "Tu",
+	--watchwarn = " está siendo observado!",
+	--watchwarnyou = "¡Estás siendo observado!",
+	--you = "Tu",
 } end )
 
 local timer = {

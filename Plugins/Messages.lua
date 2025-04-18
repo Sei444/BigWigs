@@ -70,7 +70,7 @@ L:RegisterTranslations("esES", function()
 
 		["msg"] = "msg",
 		["anchor"] = "ancla",
-		["reset"] = true,
+		["reset"] = "reiniciar",
 		["rw"] = "rw",
 		["color"] = "color",
 		["scale"] = "escala",
@@ -91,8 +91,8 @@ L:RegisterTranslations("esES", function()
 		["Colorize messages"] = "Colorea los mensajes",
 		["Scale"] = "Escala",
 
-		["Reset position"] = true,
-		["Reset the anchor position, moving it to the default location"] = true,
+		["Reset position"] = "reiniciar posicion",
+		["Reset the anchor position, moving it to the default location"] = "Reinicia la posición del ancla, moviéndola a la ubicación por defecto",
 
 		["|cffff0000Co|cffff00fflo|cff00ff00r|r"] = "|cffff0000Co|cffff00fflo|cff00ff00r|r",
 		["White"] = "Blanco",
